@@ -1,2 +1,2 @@
-print('Hello world')
+print('Tin Potikanond')
 print('bye bye')
