@@ -9,3 +9,4 @@ elif a <= 5:
 else:
     b = 0
 print(b)
+print('Yay')
