@@ -1,4 +1,4 @@
-a = int(input("Your Number : "))
+a = int(input("Your Number: "))
 print(a)
 for i in range(100):
   y = (i+1)

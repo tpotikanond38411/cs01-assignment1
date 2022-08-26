@@ -1,2 +1,2 @@
-for x in 'Tin':
+for x in 'Potikaknond':
   print(x)
